@@ -1,0 +1,149 @@
+.one a{
+    color: rgba(240, 64, 15, 1);
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px;
+    margin-top: 40px;
+}
+
+main h1{
+    color: rgba(14, 13, 93, 1);
+    font-size: 43px;
+
+}
+
+.two{
+    background-color: rgba(245, 245, 245, 1);
+    font-size: 25px;
+    display: flex;
+    width: 360px;
+    height: 60px;
+    border-radius: 17px;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+.o{
+    background-color: white;
+    height: 40px;
+    width: 167px;
+    text-align: center;
+    border-radius: 12px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.t{
+    color: rgba(117, 117, 117, 1);
+}
+
+input{
+    width: 400px;
+    height: 40px;
+    border-radius: 15px;
+    border: 1px solid rgba(61, 61, 61, 0.19);
+    background-color: rgba(117, 117, 117, 0.19);
+    font-size: 18px;
+}
+
+.th{
+    margin-top: 30px;
+}
+
+button{
+    background-color: rgba(246, 158, 134, 1);
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 18px;
+    margin-left: 300px;
+}
+
+button:hover{
+    background-color: orangered;
+    color: #fff;
+}
+
+.a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.64);
+    
+    
+}
+
+main{
+    background-color: #fff;
+    width: 550px;
+    height: 570px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.body{
+    background-color: rgba(117, 117, 117, 0.19);
+    display: flex;
+    justify-content: center;
+}
+
+.on{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.tw{
+    display: flex;
+    justify-content: center;
+}
+
+.aa{
+    margin-top: 20px;
+}
+
+.ia a{
+    color: rgba(66, 66, 66, 1);
+    text-decoration: none;
+    font-size: 30px;
+}
+
+body{
+    font-family: Roboto;
+}
+
+header{
+    display: flex;
+    height: 100px;
+    border-bottom: 1px solid gray;
+    align-items: center;
+}
+
+.mars{
+    width: 150px;
+    height: 40px;
+    margin-left: 100px;
+   
+}
+
+.ia{
+    display: flex;
+    align-items: center;
+    margin-left: 890px;
+    justify-content: space-around;
+    width: 120px;
+}
+
+.styl{
+    background-color: orangered;
+}
